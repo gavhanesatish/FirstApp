@@ -7,4 +7,4 @@ git commit -m "adding new file"
 git push
 
 #create new feature branch from [main] branch
-git checkout -b [branch-name]
+git checkout -b [branch-name] 
