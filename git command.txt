@@ -1,0 +1,10 @@
+#pull project from git:
+git clone [url]
+
+#add new file and push those changes:
+git add *
+git commit -m "adding new file"
+git push
+
+#create new feature branch from [main] branch
+git checkout -b [branch-name]
